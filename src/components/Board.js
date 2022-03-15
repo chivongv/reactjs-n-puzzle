@@ -19,6 +19,7 @@ const Grid = styled.div({
 });
 
 const Button = styled("button")({
+  padding: 5,
   marginTop: 15,
 });
 

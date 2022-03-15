@@ -20,7 +20,7 @@ function App() {
     <Container>
       <Board />
       <Footer>
-        <div>&copy; 2020 Chi Vong - React N-Puzzle</div>
+        <div>&copy; {new Date().getFullYear()} Chi Vong - React N-Puzzle</div>
       </Footer>
     </Container>
   );
